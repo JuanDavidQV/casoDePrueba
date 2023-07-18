@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Validar que los elementos realicen sus acciones correspondientes" skipped="1" tests="2" time="8.59" timestamp="2023-07-18 10:30:40"><testcase name="Validar que el botón cancelar del login funcione"/><testcase name="Realizar una busqueda de hotel"><skipped/></testcase></testsuite>
